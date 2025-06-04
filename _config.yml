@@ -119,10 +119,8 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note_en: >
+contact_note: >
   Email, LinkedIn or WeChat is the best way to reach me. I am always open to new opportunities and collaborations.
-contact_note_zh: >
-  可以通过电子邮件、领英或微信联系我。希望能有机会与您合作。
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
