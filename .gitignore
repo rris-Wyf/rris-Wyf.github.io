@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+*.pyc
+assets/cv/classic/
+assets/cv/markdown/
