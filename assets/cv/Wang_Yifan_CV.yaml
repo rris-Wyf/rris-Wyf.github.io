@@ -1,0 +1,370 @@
+cv:
+  name: Wang Yifan
+  location: Singapore
+  email: ywang114@e.ntu.edu.sg
+  website: https://rris-wyf.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: yifan-wang-447442191
+
+  sections:
+    Summary:
+      # - Final-year Ph.D. student at NTU. My current research focuses on developing intelligent assistive robots and personalized strategies for individuals with gait and balance impairments. Central to my work is the creation of a Real2Sim2Real framework that integrates digital twins of both humans and robots. This framework enables accurate modeling of user-robot interactions and co-adaptation, facilitating rapid design iterations through simulation and enabling personalization of assistive strategies based on realistic human behavior.
+      - Final-year Ph.D. candidate at NTU specializing in assistive robotics. My research focuses on developing intelligent robotic systems and personalized strategies to support individuals with gait and balance impairments. Central to my work is the creation of a Real2Sim2Real framework that integrates digital twins of both humans and robots. This framework enables accurate modeling of user-robot interactions and co-adaptation, facilitating rapid design iterations through simulation and enabling personalization of assistive strategies based on realistic human behavior.
+    education:
+      - institution: '[Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)'
+        area: '**Mechanical Engineering**'
+        degree: '**Ph.D.**'
+        date: Jan 2021 -- Apr 2026 (Expected)
+        start_date: 2021-01
+        end_date: 2026-04 # ! Expected
+        location: Singapore
+        summary:
+        highlights:
+          - '**Advisor:** Prof. Ang Wei Tech'
+          - '**Awards:** NTU Research Scholarship (2021-2025)'
+          - '**Research Interests:** Physics-Based Simulation, Human-Robot Interaction, Assistive and Rehabilitation Robotics'
+      - institution: '[National University of Singapore (NUS)](https://nus.edu.sg/)'
+        area: '**Mechanical Engineering**'
+        degree: '**M.S.**'
+        date:
+        start_date: 2019-08
+        end_date: 2020-12
+        location: Singapore
+        summary:
+        highlights:
+          - "**GPA:** 4.39/5.00"
+      - institution: '[Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/)'
+        area: '**Mechanical Engineering**'
+        degree: '**B.S.**'
+        date:
+        start_date: 2014-09
+        end_date: 2018-06
+        location: Shanghai, China
+        summary:
+        highlights:
+          - "**GPA:** 3.48/4.00"
+          - '**Awards:** SJTU Excellent Undergraduate Scholarship (2015 - 2017), SJTU Excellent Project Award (2016, 2017)'
+    research projects:
+      - name: 'Human-In-The-Loop Robotic Simulator'
+        date:
+        start_date: 2023-11
+        end_date: present
+        location: NTU
+        # summary: A simulation framework for physical human-robot interaction (pHRI) investigation to personalise robotic systems.
+        highlights:
+          - 'Developed a human-in-the-loop (HITL) simulation platform for assistive robots, integrating a human digital twin, robot digital twin, and a physical human–robot interaction (pHRI) model.'
+          - 'Built a human digital twin pipeline combining skeletal, musculoskeletal, and soft-body models with reinforcement learning to simulate diverse capabilities and enable adaptive, realistic robot testing.'
+          - 'Designed a robot digital twin pipeline for multiple assistive robots (e.g., gait-assistive robots, lower-limb exoskeletons, robotic arm extenders), incorporating accurate kinematic, dynamic, and control models to ensure realistic simulation of robot behavior and interactions.'
+          - 'Investigated human–robot interaction modalities in simulation, including soft-body dynamics, mass-spring-damper representations, and other physics-based models to capture complex pHRI.'
+          - 'Created a Sim2Real framework to personalize controllers and optimize ergonomic design and safety for gait-assistive robots and exoskeletons, enabling simulation-informed adaptation and more efficient real-world testing.'
+      - name: 'Mobile Robotic Balance Assistant (MRBA)'
+        start_date: 2021-01
+        end_date: 2023-12
+        location: NTU
+        highlights:
+          - 'Designed and developed a mobile robotic balance assistant to aid individuals with balance impairments in daily activities, focusing on electronics integration and control systems.'
+          - 'Created a user-following algorithm enabling smooth, adaptive trajectory planning and dynamic path adjustment in response to user gait variations, speed changes and environmental obstacles.'
+          - 'Developed quantitative balance indicators and an intelligent fall-detection/intervention algorithm using multi-sensor inputs to provide timely assistance during balance-loss events.'
+          - 'Led large-scale clinical trials with 50+ participants, including elderly and stroke survivors, to evaluate MRBA’s effectiveness in clinical settings.'
+      
+      - name: 'Head Pose Estimation for Assisting Radiotherapy of Nose Cancers'
+        start_date: 2019-08
+        end_date: 2020-12
+        location: NUS
+        highlights:
+          - 'Developed algorithms to track head motion and estimate head orientation in real-time, enabling precise localization of tumors during radiotherapy with CT-scanned head models.'
+          - 'Implemented a facial feature extraction pipeline using OpenCV and geometric methods to align 3D head points with 2D image projections, achieving effective motion tracking.'
+          - 'Designed and trained a CNN based on ResNet50 using datasets (300W-LP, AFLW 2000), improving head pose prediction accuracy for clinical applications.'
+
+    Work experience:
+      - company: Nanyang Technological University
+        position: Teaching Assistant
+        location: Singapore
+        start_date: 2022-08
+        end_date: 2024-12
+        highlights:
+          - Delivered tutorials and labs for E2.9 Balancing of Rotating Masses and MA3004 Mathematics Methods in Engineering and assisted in course material design.
+      - company: Nanyang Technological University
+        position: Research Assistant
+        location: Singapore
+        start_date: 2022-08
+        end_date: present
+        highlights:
+          - Mentored and scoped three undergraduate and two master's projects, defining research objectives, guiding technical execution and skill development.
+      - company: Shopee
+        position: Data Analyst Intern
+        location: Singapore
+        start_date: 2020-10
+        end_date: 2020-12
+        highlights:
+          - Analyzed e-commerce transaction data to identify key consumer trends and behaviors.
+          - Identified anomalies in online transactions, contributing to fraud detection, improved system efficiency, and enhanced user experience.
+          - Worked with cross-functional teams to optimize operation processes in digital commerce platforms.
+      - company: Huatai Securities
+        position: Data Analyst Intern
+        location: Shenzhen, China
+        start_date: 2020-07
+        end_date: 2020-09
+        highlights:
+          - Processed and analyzed extensive financial text datasets (news, reports, research notes) to extract market trends and actionable insights
+          - Developed sentiment analysis models using natural language processing (NLP) algorithms (e.g. BERT) to quantify investor sentiment from financial texts.
+          - Built interactive data visualization dashboards to communicate analytical findings effectively to decision-makers.
+    Selected publications:
+      - title: Dynamic Robotic Balance Assistant (DRBA) - An assist-as-needed gait and balance rehabilitation robot for versatile training
+        authors:
+          - Lei Li†
+          - '***Yifan Wang†***'
+          - Sherwin Stephen Chan
+          - Youlong Wang
+          - Sherwin Stephen Chan
+          - Jiaye Chen
+          - Hao Wang
+          - Xuesheng Gong
+          - Jun Lin
+          - Hongping Hu
+          - Wei Tech Ang
+        journal: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), † Denotes equal contribution'
+        date: Under Review
+      # - title: Towards Human-centered Design - A Real2Sim Framework for Personalizing Gait Assistive Robots
+      #   authors:
+      #     - '***Yifan Wang***'
+      #     - Chengyuan Yang
+      #     - Youlong Wang
+      #     - Sherwin Stephen Chan
+      #     - Chun Kwang Tan
+      #     - Meng Yuan
+      #     - Lei Li
+      #     - Wei Tech Ang
+      #   journal: 'Mechatronics'
+      #   date: Under Review
+
+      - title: PHREASE - Personalized Human-Robot Interaction Simulation with Accurate Soft Body Modeling for Safe and Ergonomic Gait Assistance
+        authors:
+          - '***Yifan Wang***'
+          - Chengyuan Yang
+          - Vasanthamaran Ravichandram
+          - Sherwin Stephen Chan
+          - Chun Kwang Tan
+          - Wei Tech Ang
+        journal: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop'
+        date: 2025-10
+
+      - title: A Human-In-The-Loop Simulation Framework for Evaluating Control Strategies in Gait Assistive Robots
+        authors:
+          - '***Yifan Wang***'
+          - Sherwin Stephen Chan
+          - Mingyuan Lei
+          - Lek Syn Lim
+          - Henry Johan
+          - Bingran Zuo
+          - Wei Tech Ang
+        journal: 'IEEE International Conference on Robotics and Automation (ICRA)'
+        date: 2025-05
+
+      - title: Graceful User Following for Mobile Balance Assistive Robot in Daily Activities
+        authors:
+          - '***Yifan Wang***'
+          - Meng Yuan
+          - Lei Li
+          - Karen Sui Geok Chua
+          - Seng Kwee Wee
+          - Wei Tech Ang
+        journal: 'The 22nd World Congress of the International Federation of Automatic Control (IFAC WC)'
+        date: 2023-07
+
+      # - title: "ORBiT: Optimizing Robot-Assisted Bite Transfer Leveraging a Real2Sim2Real Framework"
+      #   authors:
+      #     - Sherwin Stephen Chan
+      #     - J Anne Yow
+      #     - Yi Heng San
+      #     - Vasanthamaran Ravichandram
+      #     - '***Yifan Wang***'
+      #     - Lek Syn Lim
+      #     - Wei Tech Ang
+      #   journal: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+      #   date: 2025-10
+
+      # - title: Simulating Safe Bite Transfer in Robot-Assisted Feeding with a Soft Head and Articulated Jaw
+      #   authors:
+      #     - Yi Heng San
+      #     - Vasanthamaran Ravichandram
+      #     - J Anne Yow
+      #     - Sherwin Stephen Chan
+      #     - '***Yifan Wang***'
+      #     - Wei Tech Ang
+      #   journal: 'IEEE International Conference on Rehabilitation Robotics (ICORR)'
+      #   date: 2025-05
+
+
+    Skills:
+      - label: Programming Languages
+        details: Python, C++, C, MATLAB & Simulink
+      - label: Robotics
+        details: MuJoCo & MJX, OpenSim, Machine Learning (PyTorch, TensorFlow, Equinox), SolidWorks, STM32
+      # - label: Machine Learning
+      #   details: PyTorch, TensorFlow, Equinox
+      - label: Spoken Languages
+        details: Mandarin (Native), English (Professional fluency)
+    # Awards and Achievements:
+      # - name: 'Dyson-NTU Innovation Challenge'
+      #   date: 2021-04 -- 2021-09
+      #   location: Singapore
+      #   summary: Won 1st place in the annual innovation challenge organized by NTUitive.
+      #   highlights:
+      #     - 'Awarded SGD 10,000 MDT grant to prototype a innovative smart planter to address urban gardening challenges'
+    # extracurricular_activities:
+    #   - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
+    #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
+    # numbered_entries:
+    #   - number: This is a numbered entry.
+    #   - number: This is another numbered entry.
+    #   - number: This is the third numbered entry.
+    # reversed_numbered_entries:
+    #   - reversed_number: This is a reversed numbered entry.
+    #   - reversed_number: This is another reversed numbered entry.
+    #   - reversed_number: This is the third reversed numbered entry.
+design:
+  theme: engineeringresumes
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: XCharter
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: false
+  header:
+    name_font_family: XCharter
+    name_font_size: 25pt
+    name_bold: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: XCharter
+    separator_between_connections: '|'
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: XCharter
+    font_size: 1.2em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 6cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.19cm
+    horizontal_space_between_bullet_and_highlight: 0.3em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      # main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      main_column_first_row_template: |-
+        **INSTITUTION**, LOCATION
+        **DEGREE in AREA**
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - July
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-09-18'
+  render_command:
+  bold_keywords: []
