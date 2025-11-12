@@ -659,7 +659,7 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Dynamic Robotic Balance Assistant \(DRBA\) - An assist-as-needed gait and balance rehabilitation robot for versatile training]
+    #strong[Towards Human-centered Gait Assistance - A Real2Sim2Real Framework for Gait Assistive Robots]
 
   ],
   right-content: [
@@ -667,9 +667,9 @@
   ],
 )
 #one-col-entry(content:[
-  #v(design-highlights-top-margin);Lei Li†, #strong[#emph[Yifan Wang†]], Sherwin Stephen Chan, Youlong Wang, Sherwin Stephen Chan, Jiaye Chen, Hao Wang, Xuesheng Gong, Jun Lin, Hongping Hu, Wei Tech Ang
+  #v(design-highlights-top-margin);#strong[#emph[Yifan Wang]], Chengyuan Yang, Chun Kwang Tan, Sherwin Stephen Chan, Youlong Wang, Lei Li, Wei Tech Ang
 
-#v(design-highlights-top-margin - design-text-leading)IEEE Transactions on Neural Systems and Rehabilitation Engineering \(TNSRE\), † Denotes equal contribution])
+#v(design-highlights-top-margin - design-text-leading)IEEE Transactions on Robotics \(T-RO\)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
