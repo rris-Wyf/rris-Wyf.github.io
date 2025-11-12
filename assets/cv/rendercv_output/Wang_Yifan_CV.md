@@ -94,10 +94,10 @@ Final-year Ph.D. candidate at NTU specializing in assistive robotics. My researc
 
 # Selected Publications
 
-## Dynamic Robotic Balance Assistant (DRBA) - An assist-as-needed gait and balance rehabilitation robot for versatile training 
+## Towards Human-centered Gait Assistance - A Real2Sim2Real Framework for Gait Assistive Robots 
 - Under Review
-- Lei Li†, ***Yifan Wang†***, Sherwin Stephen Chan, Youlong Wang, Sherwin Stephen Chan, Jiaye Chen, Hao Wang, Xuesheng Gong, Jun Lin, Hongping Hu, Wei Tech Ang
-- IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), † Denotes equal contribution
+- ***Yifan Wang***, Chengyuan Yang, Chun Kwang Tan, Sherwin Stephen Chan, Youlong Wang, Lei Li, Wei Tech Ang
+- IEEE Transactions on Robotics (T-RO)
 
 ## PHREASE - Personalized Human-Robot Interaction Simulation with Accurate Soft Body Modeling for Safe and Ergonomic Gait Assistance 
 - Oct 2025

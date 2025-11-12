@@ -111,33 +111,32 @@ cv:
           - Developed sentiment analysis models using natural language processing (NLP) algorithms (e.g. BERT) to quantify investor sentiment from financial texts.
           - Built interactive data visualization dashboards to communicate analytical findings effectively to decision-makers.
     Selected publications:
-      - title: Dynamic Robotic Balance Assistant (DRBA) - An assist-as-needed gait and balance rehabilitation robot for versatile training
-        authors:
-          - Lei Li†
-          - '***Yifan Wang†***'
-          - Sherwin Stephen Chan
-          - Youlong Wang
-          - Sherwin Stephen Chan
-          - Jiaye Chen
-          - Hao Wang
-          - Xuesheng Gong
-          - Jun Lin
-          - Hongping Hu
-          - Wei Tech Ang
-        journal: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), † Denotes equal contribution'
-        date: Under Review
-      # - title: Towards Human-centered Design - A Real2Sim Framework for Personalizing Gait Assistive Robots
+      # - title: Dynamic Robotic Balance Assistant (DRBA) - An assist-as-needed gait and balance rehabilitation robot for versatile training
       #   authors:
-      #     - '***Yifan Wang***'
-      #     - Chengyuan Yang
+      #     - Lei Li†
+      #     - '***Yifan Wang†***'
+      #     - Sherwin Stephen Chan
       #     - Youlong Wang
       #     - Sherwin Stephen Chan
-      #     - Chun Kwang Tan
-      #     - Meng Yuan
-      #     - Lei Li
+      #     - Jiaye Chen
+      #     - Hao Wang
+      #     - Xuesheng Gong
+      #     - Jun Lin
+      #     - Hongping Hu
       #     - Wei Tech Ang
-      #   journal: 'Mechatronics'
+      #   journal: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), † Denotes equal contribution'
       #   date: Under Review
+      - title: Towards Human-centered Gait Assistance - A Real2Sim2Real Framework for Gait Assistive Robots
+        authors:
+          - '***Yifan Wang***'
+          - Chengyuan Yang
+          - Chun Kwang Tan
+          - Sherwin Stephen Chan
+          - Youlong Wang
+          - Lei Li
+          - Wei Tech Ang
+        journal: 'IEEE Transactions on Robotics (T-RO)'
+        date: Under Review
 
       - title: PHREASE - Personalized Human-Robot Interaction Simulation with Accurate Soft Body Modeling for Safe and Ergonomic Gait Assistance
         authors:
